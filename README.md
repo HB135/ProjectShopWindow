@@ -33,6 +33,7 @@ See [Male Fashion Template](https://themewagon.com/themes/free-bootstrap-4-html5
 
 ![Index - Top of the page](/ReadMe-Screenshots/Index-top.png)
 ![Index - shop select](/ReadMe-Screenshots/Index-shop-select.png)
+![Index - Best sellers](/ReadMe-Screenshots/Index-bestsellers.png)
 ![Shop - all](/ReadMe-Screenshots/shop-all.png)
 ![Shop - clothing](/ReadMe-Screenshots/shop-clothing.png)
 ![Shop - shoes](/ReadMe-Screenshots/shop-shoes.png)
