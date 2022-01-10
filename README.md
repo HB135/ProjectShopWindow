@@ -31,33 +31,33 @@ See [Male Fashion Template](https://themewagon.com/themes/free-bootstrap-4-html5
 
 ## Screenshots
 
-Index - Top of the page
+### Index - Top of the page
 ![Index - Top of the page](/ReadMe-Screenshots/Index-top.png)
-Index - shop select
+### Index - shop select
 ![Index - shop select](/ReadMe-Screenshots/Index-shop-select.png)
-Index - Best sellers
+### Index - Best sellers
 ![Index - Best sellers](/ReadMe-Screenshots/index-bestsellers.png)
-Shop - all
+### Shop - all
 ![Shop - all](/ReadMe-Screenshots/shop-all.png)
-Shop - clothing
+### Shop - clothing
 ![Shop - clothing](/ReadMe-Screenshots/shop-clothing.png)
-Shop - shoes
+### Shop - shoes
 ![Shop - shoes](/ReadMe-Screenshots/shop-shoes.png)
-Shop - accessories
+### Shop - accessories
 ![Shop - accessories](/ReadMe-Screenshots/shop-accessories.png)
-Footer
+### Footer
 ![Footer](/ReadMe-Screenshots/footer.png)
-About us
+### About us
 ![About us](/ReadMe-Screenshots/aboutus-top.png)
-About Us - Meet the team
+### About Us - Meet the team
 ![About Us - Meet the team](/ReadMe-Screenshots/aboutus-team.png)
-Contact us - map
+### Contact us - map
 ![Contact us map](/ReadMe-Screenshots/contactus-map.png)
-Contact us - information
+### Contact us - information
 ![Contact us information](/ReadMe-Screenshots/contactus-info.png)
-Cart
+### Cart
 ![Cart](/ReadMe-Screenshots/cart.png)
-Checkout
+### Checkout
 ![Checkout](/ReadMe-Screenshots/checkout.png)
 
 ## Authors
