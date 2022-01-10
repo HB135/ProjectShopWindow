@@ -27,7 +27,7 @@ This website was made using the template: [Male Fashion](https://themewagon.com/
 - Checkout pages
 - Footer navigation
 
-See [Male Fashion](https://themewagon.com/themes/free-bootstrap-4-html5-ecommerce-website-template-malefashion/) for the full list of features which were included with their template.
+See [Male Fashion Template](https://themewagon.com/themes/free-bootstrap-4-html5-ecommerce-website-template-malefashion/) for the full list of features which were included with their template.
 
 ## Screenshots
 
